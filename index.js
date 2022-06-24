@@ -54,12 +54,14 @@ async function shareMsg() {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://stackblitz.com/files/liff-c8ysgu/github/api-XDBet/liff-c8ysgu/master/image/flex/proXD8-1.png',
-              margin: 'none',
-              size: 'full',
+              url: 'https://user-images.githubusercontent.com/105995875/175524684-5cfa0cef-e6b7-46d3-8840-45e78a5d5bb1.png',
+              size: '100%',
               aspectRatio: '6:3.5',
               aspectMode: 'cover',
               backgroundColor: '#212121FF',
+              margin: 'none',
+              gravity: 'bottom',
+              align: 'center',
             },
             body: {
               type: 'box',
@@ -70,7 +72,7 @@ async function shareMsg() {
               contents: [
                 {
                   type: 'text',
-                  text: 'สมัครสมาชิกใหม่',
+                  text: 'ด่วน!!! สมาชิกใหม่',
                   weight: 'bold',
                   size: 'xxl',
                   color: '#E1E1E1FF',
@@ -120,22 +122,20 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
                       action: {
                         type: 'uri',
                         label: 'สมัครสมาชิก',
-                        uri: 'https://m2.xd8bet.com/dashboard/login?id',
+                        uri: 'https://m.xd7bet.com/dashboard/login?id',
                       },
-                      color: '#4C00E7FF',
+                      color: '#960000FF',
                       height: 'sm',
                       style: 'primary',
                     },
                   ],
-                  alignItems: 'center',
-                  justifyContent: 'center',
                 },
                 {
                   type: 'box',
@@ -143,14 +143,14 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
                       action: {
                         type: 'uri',
                         label: 'ติดต่อแอดมิน',
-                        uri: 'https://liff.line.me/1656413202-XmQOge58',
+                        uri: 'https://rchat.readyplanet.com/1000046519',
                       },
                       color: '#02A200FF',
                       height: 'sm',
@@ -166,12 +166,14 @@ async function shareMsg() {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://stackblitz.com/files/liff-c8ysgu/github/api-XDBet/liff-c8ysgu/master/image/flex/proXD8-2.png',
+              url: 'https://user-images.githubusercontent.com/105995875/175524758-da7d4c38-ddb8-4d0c-aa37-14a4cfcb9d26.png',
               margin: 'none',
               size: 'full',
               aspectRatio: '6:3.5',
               aspectMode: 'cover',
               backgroundColor: '#212121FF',
+              align: 'center',
+              gravity: 'bottom',
             },
             body: {
               type: 'box',
@@ -222,6 +224,7 @@ async function shareMsg() {
             footer: {
               type: 'box',
               layout: 'horizontal',
+              spacing: 'sm',
               position: 'relative',
               backgroundColor: '#212121FF',
               borderColor: '#212121FF',
@@ -232,19 +235,18 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
                       action: {
                         type: 'uri',
                         label: 'สมัครสมาชิก',
-                        uri: 'https://m2.xd8bet.com/dashboard/login?id',
+                        uri: 'https://m.xd7bet.com/dashboard/login?id',
                       },
-                      color: '#4C00E7FF',
+                      color: '#960000FF',
                       height: 'sm',
                       style: 'primary',
-                      gravity: 'center',
                     },
                   ],
                 },
@@ -254,7 +256,7 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
@@ -270,19 +272,20 @@ async function shareMsg() {
                   ],
                 },
               ],
-              spacing: 'sm',
             },
           },
           {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://stackblitz.com/files/liff-c8ysgu/github/api-XDBet/liff-c8ysgu/master/image/flex/proXD8-3.png',
+              url: 'https://user-images.githubusercontent.com/105995875/175524904-d4f2abd6-9754-4edb-9560-24bb1cb8b186.png',
               margin: 'none',
               size: 'full',
               aspectRatio: '6:3.5',
               aspectMode: 'cover',
               backgroundColor: '#212121FF',
+              align: 'center',
+              gravity: 'bottom',
             },
             body: {
               type: 'box',
@@ -344,16 +347,16 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
                       action: {
                         type: 'uri',
                         label: 'สมัครสมาชิก',
-                        uri: 'https://m2.xd8bet.com/dashboard/login?id',
+                        uri: 'https://m.xd7bet.com/dashboard/login?id',
                       },
-                      color: '#4C00E7FF',
+                      color: '#960000FF',
                       height: 'sm',
                       style: 'primary',
                     },
@@ -365,7 +368,7 @@ async function shareMsg() {
                   borderWidth: '1px',
                   backgroundColor: '#FFFFFFFF',
                   borderColor: '#FFFFFFFF',
-                  cornerRadius: '10px',
+                  cornerRadius: 'xxl',
                   contents: [
                     {
                       type: 'button',
