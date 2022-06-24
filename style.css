@@ -23,11 +23,13 @@ h2 {
   position: absolute;
   top: 5px;
   right: 10px;
+  width: 40%;
 }
 .top-left {
   position: absolute;
   top: 5px;
   left: -5px;
+  width: 40%;
 }
 /* จบ โลโก้ XD8Bet */
 
