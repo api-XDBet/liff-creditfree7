@@ -150,7 +150,7 @@ async function shareMsg() {
                       action: {
                         type: 'uri',
                         label: 'ติดต่อแอดมิน',
-                        uri: 'https://rchat.readyplanet.com/1000046519',
+                        uri: 'https://lin.ee/d4YoV9X',
                       },
                       color: '#02A200FF',
                       height: 'sm',
@@ -263,7 +263,7 @@ async function shareMsg() {
                       action: {
                         type: 'uri',
                         label: 'ติดต่อแอดมิน',
-                        uri: 'https://rchat.readyplanet.com/1000046519',
+                        uri: 'https://lin.ee/d4YoV9X',
                       },
                       color: '#02A200FF',
                       height: 'sm',
@@ -375,7 +375,7 @@ async function shareMsg() {
                       action: {
                         type: 'uri',
                         label: 'ติดต่อแอดมิน',
-                        uri: 'https://rchat.readyplanet.com/1000046519',
+                        uri: 'https://lin.ee/d4YoV9X',
                       },
                       color: '#02A200FF',
                       height: 'sm',
