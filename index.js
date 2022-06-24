@@ -452,7 +452,7 @@ signUpbtn.onclick = () => {
 };
 async function openWindow() {
   liff.openWindow({
-    url: 'https://m2.xd8bet.com/login?id',
+    url: 'https://m.xd7bet.com/login?id',
     external: true,
   });
   liff.closeWindow();

@@ -21,12 +21,14 @@ h2 {
 }
 .top-right {
   position: absolute;
+  text-align: center;
   top: 5px;
   right: 10px;
   width: 40%;
 }
 .top-left {
   position: absolute;
+  text-align: center;
   top: 5px;
   left: -5px;
   width: 40%;
@@ -47,6 +49,15 @@ h2 {
   top: 5px;
   right: 5px;
   left: 5px;
+  width: 100%;
+}
+.imgBG {
+  height: 100%;
+  width: auto;
+  background-image: url('https://64.media.tumblr.com/13d99bb5b03ddaacbc198a0941ee951d/de5a35eddd9fad73-8c/s640x960/386cbb24961f1ef355a3bd1d0c2ec0eb43f96950.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: cover;
 }
 /* Slideshow container */
 .slideshow-container {
