@@ -26,7 +26,7 @@ async function main() {
   // 10. Show share button
 
   // 1. Initialize LIFF app)
-  await liff.init({ liffId: '1656634847-3Gy5l2el'});
+  await liff.init({ liffId: '1656634847-3Gy5l2el' });
 }
 main();
 
@@ -54,7 +54,7 @@ async function shareMsg() {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://user-images.githubusercontent.com/105995875/175524684-5cfa0cef-e6b7-46d3-8840-45e78a5d5bb1.png',
+              url: 'https://cdn.discordapp.com/attachments/937407559416029189/987950994514141214/promotion_11.png',
               size: '100%',
               aspectRatio: '6:3.5',
               aspectMode: 'cover',
@@ -166,7 +166,7 @@ async function shareMsg() {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://user-images.githubusercontent.com/105995875/175524758-da7d4c38-ddb8-4d0c-aa37-14a4cfcb9d26.png',
+              url: 'https://cdn.discordapp.com/attachments/937407559416029189/987950993692037181/promotion_2.png',
               margin: 'none',
               size: 'full',
               aspectRatio: '6:3.5',
@@ -278,7 +278,7 @@ async function shareMsg() {
             type: 'bubble',
             hero: {
               type: 'image',
-              url: 'https://user-images.githubusercontent.com/105995875/175524904-d4f2abd6-9754-4edb-9560-24bb1cb8b186.png',
+              url: 'https://cdn.discordapp.com/attachments/937407559416029189/987950994220535808/promotion_9.png',
               margin: 'none',
               size: 'full',
               aspectRatio: '6:3.5',
